@@ -1,12 +1,10 @@
 # Hello, I'm Mahalaxmi
 <a href="www.linkedin.com/in/mahalaxmi-athani-107262164"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an MSc Cyber Security graduate (NCSC-certified) from the University of Plymouth, UK, with a strong foundation in Security Operations Centre (SOC) operations, threat analysis, and incident response. Through internships and hands-on projects, I've developed practical skills in SIEM monitoring, phishing investigation, malware analysis, and vulnerability assessment.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -46,13 +44,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Certified_Security_Analyst-00A4EF?&style=for-the-badge&logo=&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Splunk_Fundamentals-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
 </div>
 
 ## Projects
