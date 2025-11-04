@@ -22,7 +22,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 ### Security Operations and Monitoring
 <div> 
-
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex_XSOAR-00C7B7?&style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-009639?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
 ### Network
 <div>
