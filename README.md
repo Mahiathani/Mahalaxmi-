@@ -23,28 +23,41 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Security Operations and Monitoring
 <div> 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cortex_XSOAR-00C7B7?&style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-ServiceNow-009639?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
-### Network
+
+### Threat Intelligence and Analysis
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IPVoid-4B275F?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-4285F4?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Phishing_Email_Analysis-FF6B6B?&style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+### Penetration Testing
+<div>
+    <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=&logoColor=white" /></a>
+    <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=Burp-Suite&logoColor=white" /></a>
+</div>
+
+### Vulnerability Assessment
+<div>
+     <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=&logoColor=white" /></a>
+    <a href="https://cve.mitre.org/" target="_blank"><img src="https://img.shields.io/badge/-CVE_Analysis-FF0000?&style=for-the-badge&logo=&logoColor=white" /></a>  </div>
+
+### Network and Infrastructure Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <a href="https://www.snort.org/" target="_blank"><img src="https://img.shields.io/badge/-Snort-DC143C?&style=for-the-badge&logo=&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-TCP/IP-4D4D4D?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
+
 
 ## Certifications
 
